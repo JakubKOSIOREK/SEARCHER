@@ -1,0 +1,95 @@
+{"entries": [
+    {
+        "attributes":
+                        {
+                            "accountExpires": ["9223372036854775807"],
+                            "badPasswordTime": [],
+                            "badPwdCount": [],
+                            "cn": ["Bo\u017Cena \u017Ar\u00F3dlana"],
+                            "codePage": ["0"],
+                            "countryCode": ["0"],
+                            "displayName": ["Bo\u017Cena \u017Ar\u00F3dlana"],
+                            "distinguishedName": ["CN=Bo\u017Cena \u017Ar\u00F3dlana,OU=FE,OU=Users,OU=UNIVERSUM,DC=universum,DC=local"],
+                            "givenName": ["Bo\u017Cena"],
+                            "instanceType": ["4"],
+                            "lastLogoff": [],
+                            "lastLogon": [],
+                            "lastLogonTimestamp": ["132978476924537530"],
+                            "logonCount": [],
+                            "memberOf": [],
+                            "name": ["Bo\u017Cena \u017Ar\u00F3dlana"],
+                            "objectCategory": ["CN=Person,CN=Schema,CN=Configuration,DC=universum,DC=local"],
+                            "objectGUID": [
+                                            {
+                                                "encoded": "AFvzBO0T+Ey9TL3RHGtghQ==",
+                                                "encoding": "base64"
+                                            }
+                                        ],
+                            "objectSid": [
+                                            {
+                                                "encoded": "AQUAAAAAAAUVAAAA6TO9FZD9W8QoWlFDIE8AAA==",
+                                                "encoding": "base64"
+                                            }
+                                        ],
+                            "primaryGroupID": ["513"],
+                            "pwdLastSet": ["132979783101549910"],
+                            "sAMAccountName": ["pjarmolowicz"],
+                            "sAMAccountType": ["805306368"],
+                            "sn": ["\u017Ar\u00F3dlana"],
+                            "uSNChanged": ["4986"],
+                            "uSNCreated": ["4986"],
+                            "userAccountControl": ["512"],
+                            "userPrincipalName": ["bzrodlana@universum.local"],
+                            "whenChanged": ["20220525185150.0Z"],
+                            "whenCreated": ["20211125124337.0Z"]
+                        },
+        "dn": "CN=Bo\u017Cena \u017Ar\u00F3dlana,OU=FE,OU=Users,OU=UNIVERSUM,DC=universum,DC=local"
+    }, 
+    {
+        "attributes":
+                        {
+                            "accountExpires": ["9223372036854775807"],
+                            "badPasswordTime": ["133128872888506790"],
+                            "badPwdCount": ["0"],
+                            "cn": ["Jan Kowalski"],
+                            "codePage": ["0"],
+                            "countryCode": ["0"],
+                            "displayName": ["Jan Kowalski"],
+                            "distinguishedName": ["CN=Jan Kowalski,OU=RR-32,OU=RR,OU=Users,OU=UNIVERSUM,DC=universum,DC=local"],
+                            "givenName": ["Jan"],
+                            "instanceType": ["4"],
+                            "lastLogoff": [],
+                            "lastLogon": ["133129921828641420"],
+                            "lastLogonTimestamp": ["133125345565644950"],
+                            "logonCount": ["55"],
+                            "memberOf": [],
+                            "name": ["Jan Kowalski"],
+                            "objectCategory": ["CN=Person,CN=Schema,CN=Configuration,DC=universum,DC=local"],
+                            "objectGUID": [
+                                            {
+                                                "encoded": "AScnTASpKUun4oadMC5Qxg==",
+                                                "encoding": "base64"
+                                            }
+                                        ],
+                            "objectSid": [
+                                            {
+                                                "encoded": "AQUAAAAAAAUVAAAA6TO9FZD9W8QoWlFDngQAAA==",
+                                                "encoding": "base64"
+                                            }
+                                        ],
+                            "primaryGroupID": ["513"],
+                            "pwdLastSet": ["131577266641617910"],
+                            "sAMAccountName": ["jkowalski"],
+                            "sAMAccountType": ["805306368"],
+                            "sn": ["Kowalski"],
+                            "uSNChanged": ["149609"],
+                            "uSNCreated": ["5397"],
+                            "userAccountControl": ["512"],
+                            "userPrincipalName": ["jkowalski@universum.local"],
+                            "whenChanged": ["20221110061556.0Z"],
+                            "whenCreated": ["20130610115016.0Z"]
+                        },
+        "dn": "CN=Jan Kowalski,OU=RR-32,OU=RR,OU=Users,OU=UNIVERSUM,DC=universum,DC=local"
+    }
+]
+}
